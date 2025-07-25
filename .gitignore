@@ -1,0 +1,7 @@
+*.HEIC
+*.txt
+*.bin
+*.heif
+*.bin
+test*.py
+exiftool_files
