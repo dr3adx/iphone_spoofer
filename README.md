@@ -8,3 +8,7 @@ Some background:
 All the photos you take contain EXIF data about **you**, **where you are** and much more. They can literally replay your entire day based on photos, they save the order of when you took the photos even if you edit the photo's conventional date. Because they store the sequence ID not just the date. Very scary stuff.
 
 More readme details on the code functionality will be added soon.
+
+
+Requirements:
+- ExifTool (latest version)
