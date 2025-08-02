@@ -5,6 +5,6 @@ In fact apple made it VERY hard to even forge the photos by adding binary hash-c
 This tool makes your photos taken on an old iphone look like they've been taken on a different, even modern, iphone. It also allows you to change other EXIF data related to privacy. This can be very useful in some cases.
 
 Some background:
-All the photos you take contain EXIF data about **you**, **where you are** and much more. Very scary stuff.
+All the photos you take contain EXIF data about **you**, **where you are** and much more. They can literally replay your entire day based on photos, they save the order of when you took the photos even if you edit the photo's conventional date. Because they store the sequence ID not just the date. Very scary stuff.
 
 More readme details on the code functionality will be added soon.
