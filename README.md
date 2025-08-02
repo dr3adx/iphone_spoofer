@@ -12,3 +12,6 @@ More readme details on the code functionality will be added soon.
 
 Requirements:
 - ExifTool (latest version)
+
+Install instructions:
+- Place ExifTool in the root folder and refer to the code
